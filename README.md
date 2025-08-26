@@ -1,6 +1,6 @@
 # Programming-Assignment-1
 
-Advance Computer Programming 
+Advanced Computer Programming 
 
 Joseph Bryn P. Carungay - 2ECE-C 
 
